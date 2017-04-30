@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+c:\users\steve\google drive\cps\cps 473 reverse code engineering\lab6\lab6\dllmain.cpp(65): warning C4302: 'type cast': truncation from 'HACCEL' to 'WORD'
+  lab6.vcxproj -> C:\Users\Steve\Google Drive\cps\CPS 473 Reverse Code Engineering\lab6\Debug\lab6.dll
+  lab6.vcxproj -> C:\Users\Steve\Google Drive\cps\CPS 473 Reverse Code Engineering\lab6\Debug\lab6.pdb (Full PDB)

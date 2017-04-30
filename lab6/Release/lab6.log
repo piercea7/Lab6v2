@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+dllmain.cpp(65): warning C4302: 'type cast': truncation from 'HACCEL' to 'WORD'
+  Generating code
+  4 of 5 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab6.vcxproj -> C:\Users\Steve\Google Drive\cps\CPS 473 Reverse Code Engineering\lab6\Release\lab6.dll
+  lab6.vcxproj -> C:\Users\Steve\Google Drive\cps\CPS 473 Reverse Code Engineering\lab6\Release\lab6.pdb (Full PDB)
